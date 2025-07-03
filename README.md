@@ -1,5 +1,5 @@
 # AUC
-**AUC** (Ab Urbe condita) is a command-line Roman calendar tool. Currently it shows the specified date in the format of the Ancient Romans. 
+**AUC** (Ab Urbe condita) is a command-line Roman calendar tool. Currently it shows the specified date in the format of the Ancient Romans. It will be expanded to allow more options.
 
 # Synopsis
 auc [-d d/m/y] [-c]
